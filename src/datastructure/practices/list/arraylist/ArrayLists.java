@@ -7,5 +7,6 @@ public class ArrayLists {
 		ArrayList<String> alist= new ArrayList();
 		alist.add("Amit;");
 		alist.add("Amit ki Baloon");
+		System.out.println(alist);
 	}
 }
